@@ -1,1 +1,3 @@
 
+En esta carpeta se guardaran todo los colab que se relicen para el curso de metodos
+numericos dl semestre 2022-1
